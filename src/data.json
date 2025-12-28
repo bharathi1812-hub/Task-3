@@ -1,0 +1,9 @@
+{
+  "totalUsers": 1240,
+  "totalOrders": 368,
+  "totalRevenue": 89250,
+  "recentOrders": [
+    {"id": 1, "customer": "Priya Sharma", "product": "Paris Tour", "date": "2025-12-27", "amount": 1200},
+    {"id": 2, "customer": "Rahul Kumar", "product": "Tokyo Package", "date": "2025-12-26", "amount": 1800}
+  ]
+}
